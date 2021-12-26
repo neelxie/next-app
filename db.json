@@ -1,0 +1,12 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "description": "News Article",
+      "category": "Politics"
+    },
+    { "id": 2, "title": "Article 2", "description": "News Article", "category": "Sports" },
+    { "id": 3, "title": "Article 3", "description": "News Article", "category": "Health" }
+  ]
+}
