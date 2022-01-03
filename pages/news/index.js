@@ -9,3 +9,8 @@ function News() {
 }
 
 export default News
+
+export async function getServerSideProps(){
+  const response = await fetch('https://localhost:4000/news')
+  const data = await response.json()
+}
